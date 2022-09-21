@@ -1,0 +1,1 @@
+To create file use the command $ touch 'filename.extension(py, md, etc)
